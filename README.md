@@ -82,8 +82,11 @@ python example.py
 
 ## 🤝 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-uvpatel-181717?style=for-the-badge&logo=github)](https://github.com/uvpatel)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Urvil%20Patel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/urvil-patel-6995a0320/)
+
 [![Instagram](https://img.shields.io/badge/Instagram-patelurvilv-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/patelurvilv/)
+
 [![Gmail](https://img.shields.io/badge/Gmail-uvpatel7271@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:uvpatel7271@gmail.com)
 
 ---
