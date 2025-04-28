@@ -1,4 +1,4 @@
-## <img src="./assets/python.jpg" alt="C Logo" width="50" height="50"> Python <img src="./assets/python.jpg" alt="C Logo" width="50" height="50"> 
+## <img src="./assets/python.jpg" alt="python Logo" width="50" height="50"> Python <img src="./assets/python.jpg" alt="python Logo" width="50" height="50"> 
 # 📚 Python Libraries 🚀
 
 Welcome to **Python-Libraries** – a curated collection of Python modules and libraries that I’m exploring to boost my coding skills and build real-world projects.
