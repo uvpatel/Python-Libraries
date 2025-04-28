@@ -1,3 +1,4 @@
+## <img src="./assets/python.jpg" alt="C Logo" width="50" height="50"> Python <img src="./assets/python.jpg" alt="C Logo" width="50" height="50"> 
 # 📚 Python Libraries 🚀
 
 Welcome to **Python-Libraries** – a curated collection of Python modules and libraries that I’m exploring to boost my coding skills and build real-world projects.
@@ -17,16 +18,16 @@ The goal is to document my learning journey while making it helpful for other Py
 ---
 
 ## 📂 Libraries Covered (So Far)
-| Library         | Description                                               |
-|-----------------|-----------------------------------------------------------|
-| **NumPy**       | Powerful library for numerical computing with arrays.     |
-| **Pandas**      | Data manipulation and analysis tool for structured data.  |
-| **Matplotlib**  | Visualization library to plot graphs and charts.          |
-| **Requests**    | Simplifies sending HTTP requests.                         |
-| **BeautifulSoup** | Library for web scraping and parsing HTML data.        |
-| **Tkinter**     | Python GUI library for creating desktop apps.             |
-| **OS**          | Interact with the operating system.                       |
-| **Datetime**    | Work with dates and times.                                |
+| Library         | Description                                               | Official Docs |
+|-----------------|-----------------------------------------------------------|---------------|
+| **NumPy**       | Powerful library for numerical computing with arrays.     | [NumPy Docs](https://numpy.org/doc/stable/) |
+| **Pandas**      | Data manipulation and analysis tool for structured data.  | [Pandas Docs](https://pandas.pydata.org/docs/) |
+| **Matplotlib**  | Visualization library to plot graphs and charts.          | [Matplotlib Docs](https://matplotlib.org/stable/index.html) |
+| **Requests**    | Simplifies sending HTTP requests.                         | [Requests Docs](https://requests.readthedocs.io/en/master/) |
+| **BeautifulSoup** | Library for web scraping and parsing HTML data.        | [BeautifulSoup Docs](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) |
+| **Tkinter**     | Python GUI library for creating desktop apps.             | [Tkinter Docs](https://docs.python.org/3/library/tkinter.html) |
+| **OS**          | Interact with the operating system.                       | [OS Docs](https://docs.python.org/3/library/os.html) |
+| **Datetime**    | Work with dates and times.                                | [Datetime Docs](https://docs.python.org/3/library/datetime.html) |
 
 > ⚠️ **Note**: The repository will keep growing as I explore more libraries!
 
@@ -66,10 +67,9 @@ python example.py
 ---
 
 ## 📈 Why This Repository?
-✔️ For beginners exploring Python libraries  
-✔️ Quick reference and revision  
-✔️ Helps in building mini-projects and understanding libraries practically  
-
+- ✔️ **For Beginners**: Ideal for those starting their journey with Python libraries.
+- ✔️ **Quick Reference**: A handy resource for revising key concepts.
+- ✔️ **Practical Learning**: Helps you understand libraries through hands-on examples and small projects.
 ---
 
 ## 🌱 Upcoming Libraries
@@ -90,6 +90,23 @@ python example.py
 [![Gmail](https://img.shields.io/badge/Gmail-uvpatel7271@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:uvpatel7271@gmail.com)
 
 ---
+## Roadmap
+- [ ] **Scikit-Learn**:  Machine learning basics 🤖
+- [ ] **Seaborn**: Advanced data visualization 📊
+- [ ] **Flask/Django**: Web development frameworks  🌐
+- [ ] **OpenCV**: Computer vision applications 👁️
 
+---
+
+## 🙏 Acknowledgments
+- Thanks to [CodeWithHarry](https://www.codewithharry.com/) for Python tutorials.
+- Inspired by [Real Python](https://realpython.com/) and [Python.org](https://www.python.org/).
+  
+---
+
+##  📜 License
+This project is licensed under the [MIT License](https://github.com/uvpatel/Python-Libraries/blob/main/LICENSE).
+
+---
 ## ⭐ Show Some Love
 If you like this repo, feel free to ⭐ it. Contributions and suggestions are always welcome!
