@@ -4,8 +4,25 @@
 Welcome to **Python-Libraries** – a curated collection of Python modules and libraries that I’m exploring to boost my coding skills and build real-world projects.
 
 ---
+## 📌 Table of Contents
+- [📖 About This Repository](#about-this-repository)
+- [📚 Libraries Covered](#libraries-covered)
+- [🚀 Project Highlights](#project-highlights)
+- [⚡ How to Run](#how-to-run)
+- [🤝 How to Contribute](#how-to-contribute)
+- [🛣️ Roadmap](#roadmap)
+- [📜 License](#license)
+- [🙏 Acknowledgments](#acknowledgments)
+- [🌐 Connect with Me](#connect-with-me)
+- [💖 Show Some Love](#show-some-love)
+---
 
 ## 🔎 About This Repository
+
+Welcome to **Python-Libraries** – a curated collection of Python modules and libraries designed to enhance your coding skills and help you build real-world projects. 🚀
+
+This repository is perfect for **beginners** and **intermediate Python developers** looking to explore and master popular libraries through practical examples and mini-projects.
+
 This repository contains examples, small projects, and explanations of popular Python libraries that help in:
 - Data manipulation
 - Web development
@@ -14,6 +31,9 @@ This repository contains examples, small projects, and explanations of popular P
 - Machine learning basics
 
 The goal is to document my learning journey while making it helpful for other Python learners.
+
+---
+
 
 ---
 
@@ -29,18 +49,25 @@ The goal is to document my learning journey while making it helpful for other Py
 | **OS**          | Interact with the operating system.                       | [OS Docs](https://docs.python.org/3/library/os.html) |
 | **Datetime**    | Work with dates and times.                                | [Datetime Docs](https://docs.python.org/3/library/datetime.html) |
 
-> ⚠️ **Note**: The repository will keep growing as I explore more libraries!
+> ⚡ **Note**: New libraries and modules will be added regularly!
 
 ---
 
 ## 🚀 Project Highlights
 Each folder or Python file inside this repo contains:
-✅ Example usage of the library  
-✅ Simple projects or scripts  
-✅ Comments for easy understanding  
+- ✅ Example usage of the library  
+- ✅ Simple projects or scripts  
+- ✅ Comments for easy understanding  
+- ✅ Helpful code comments for understanding
 
-#### Example:
+#### ✨  Example:
 - **NumPy** → Matrix operations, array creation, reshaping
+    ```python
+  import numpy as np
+  arr = np.array([[1, 2], [3, 4]])
+  print(arr.reshape(4, 1))
+    ```
+
 - **Pandas** → CSV reading/writing, DataFrame operations
 - **Matplotlib** → Line charts, bar graphs, scatter plots
 - **Requests** → API requests, JSON handling
@@ -70,6 +97,7 @@ python example.py
 - ✔️ **For Beginners**: Ideal for those starting their journey with Python libraries.
 - ✔️ **Quick Reference**: A handy resource for revising key concepts.
 - ✔️ **Practical Learning**: Helps you understand libraries through hands-on examples and small projects.
+> Whether you're into **data manipulation**, **automation**, **web scraping**, or **machine learning**, this repo is for YOU! 💻
 ---
 
 ## 🌱 Upcoming Libraries
