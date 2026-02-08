@@ -142,3 +142,7 @@ If you like this repo, feel free to ⭐ it. Contributions and suggestions are al
 
 ---
 ## More Sections will added soon
+
+
+- more changes
+- added tensorflow and pytorch
